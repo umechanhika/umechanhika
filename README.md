@@ -1,6 +1,7 @@
-### Hi there 👋
+### 自己紹介 :man:
 
-At work, I work as mobile app engineer and product manager.  
-Personally, I make something that interests me.
+こんにちは、うめちゃんです！  
+仕事では、モバイルアプリエンジニア兼プロジェクトマネージャーとして働いています。  
+個人では、モバイルアプリに限らず興味を持ったプラットフォームでサービス開発をしています。
 
-[See more info →](https://umechanhika.github.io/)
+[詳しくはこちら](https://umechanhika.github.io/)
